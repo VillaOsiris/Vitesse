@@ -1,6 +1,6 @@
 import Head from "next/head";
-import { Inter } from "next/font/google";
-import Navbar from "2/components/navbar";
+import Navbar from "@/components/navbar";
+import Hero from "@/components/hero";
 
 export default function Home() {
   return (
@@ -16,6 +16,7 @@ export default function Home() {
       </Head>
       <main>
         <Navbar />
+        <Hero />
       </main>
     </>
   );

@@ -1,6 +1,14 @@
 # VITESSE Automotive Website
 
-A website for a local gym. Built using React, and Sass.
+Introducing our brand of high-performance sports cars, where power and precision are at the forefront of everything we do. We are passionate about creating an exceptional driving experience that will leave you breathless every time you get behind the wheel.
+
+Our cars are built with the highest quality materials and engineered to perform at the highest level, offering unparalleled speed and agility on the road or track. From the sleek and aerodynamic exterior design to the luxurious and comfortable interior, every detail of our sports cars is crafted with the utmost care and attention.
+
+We take pride in our commitment to innovation and technology, continually pushing the boundaries of what's possible to give you the most advanced driving experience possible. With cutting-edge features like adaptive suspension, advanced aerodynamics, and state-of-the-art infotainment systems, you'll have everything you need to take your driving to the next level.
+
+And because we know that every driver is unique, we offer a range of customizable options, from color and trim to performance upgrades, so you can make your car truly your own.
+
+So whether you're a professional driver looking for the ultimate in performance or a car enthusiast who appreciates the thrill of the ride, our high-performance sports cars brand is the perfect choice for you. Experience the power and precision for yourself and see why we're the top choice for drivers who demand the very best.
 
 ## Getting Started
 
